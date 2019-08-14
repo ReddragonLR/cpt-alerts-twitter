@@ -1,0 +1,6 @@
+# Variables containing twitter credentials
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+CITY_OF_CAPE_TOWN_TWITTER_ID = "2645400613"
